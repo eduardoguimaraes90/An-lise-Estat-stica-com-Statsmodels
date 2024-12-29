@@ -1,5 +1,5 @@
 # Análise Estatística com StatsModels  
-Projeto do Capítulo 14 do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science"  
+Projeto do Capítulo 14 do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" da Data Science Academy.
 
 ## 📝 Descrição  
 Este projeto utiliza **regressão linear** para explorar a relação entre a área (m²) dos imóveis e o valor do aluguel, empregando a biblioteca **StatsModels**. 
